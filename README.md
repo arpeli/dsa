@@ -7,7 +7,7 @@ This project explores various data structures and algorithms, implemented in Pyt
 | Name              | Student ID       |
 |-------------------|------------------|
 | Ariel Boutcher    | BSCCS/2025/40350 |
-| Fridah Harao      | BSCCS/2025/35619 |
+| Fridah Harawo     | BSCCS/2025/35619 |
 | Grace Wanjiru     | BSCCS/2025/39629 |
 | Loise Wambui      | BSCCS/2025/40219 |
 | Derrick Mburu     | BSCCS/2025/40404 |
