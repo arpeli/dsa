@@ -1,5 +1,5 @@
 # By Derrick Mburu
-#Implementation of the Quick Sort algorithm using the "Divide and Conquer" strategy
+#Implementation of the Quick Sort Algorithm using the "Divide and Conquer" strategy
 
 def quick_sort(arr):
     # BASE CASE: If the list has 0 or 1 elements, it is already "sorted"
