@@ -27,3 +27,14 @@ last_element=names[-1]
 #you can iterate over an array and access each element
 for name in names:
     print(name)  
+
+
+# array is also used in dats storage
+
+counties=["nyeri","nairobi", "marsabit","bungoma"]
+print("counties")
+# array is also used in dats storage
+
+
+counties=["nyeri","nairobi", "marsabit","bungoma"]
+print("counties")
