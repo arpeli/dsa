@@ -10,6 +10,7 @@ names.append("najma")
 names.append("sasha")
 names.append("ruweidha")
 names.append("shalin")
+names.append("Liam")
 
 
 # we remove items at the end using pop().
@@ -20,3 +21,9 @@ lastname= names.pop() # the last element will be abind to the lastname variable
 #indexes start from 0
 first_element=names[0]
 last_element=names[-1]
+
+# if you need to change elements of the array from both sides you can use collections.deque
+
+#you can iterate over an array and access each element
+for name in names:
+    print(name)  
