@@ -22,3 +22,5 @@ To download and test the code, clone this repository:
 git clone https://github.com/arpeli/dsa.git
 ```
 Ensure you have Python installed to run the examples.
+
+Please do not push code directly to the main branch. Create a separate branch and a pull request to request a merge.
