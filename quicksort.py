@@ -1,6 +1,8 @@
 # By Derrick Mburu
 # Implementation of the Quick Sort Algorithm using the "Divide and Conquer" strategy
 # Quick Sort: O(n log n) average case, O(n²) worst case, in-place sorting
+# this was done to meet assignment requirements and to demonstrate the algorithm's logic clearly.
+
 
 def quick_sort(arr):
     """
