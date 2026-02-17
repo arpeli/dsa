@@ -1,7 +1,10 @@
 # Data Structures and Algorithms
+Further information on [Applications of Data Strcutures and Algorithms](applications.md) as part of the assignment
 
 ## Overview
-This project explores various data structures and algorithms, implemented in Python. It includes detailed explanations and code examples for each concept. The repository is designed for educational purposes to fulfill an assignment requirement.
+This specific docs explores various data structures and algorithms, implemented in Python. It includes detailed explanations and code examples for each concept. The repository is designed for educational purposes to fulfill an assignment requirement.
+
+For the part about applications [view here](applications.md)
 
 ## Group Members
 | Name              | Student ID       | Topic Assigned      |
