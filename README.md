@@ -580,4 +580,6 @@ bst.insert(40)
 print("In-order (sorted):")
 bst.in_order(bst.root)
 # Output: 20 30 40 50 70
-```
+``` 
+ 
+ 
